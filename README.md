@@ -2,6 +2,10 @@
 
 ![LIFE-ZERO](https://img.shields.io/badge/LIFE-ZERO-blue)
 
+# Link
+
+- [Blog](https://www.blog.uta8a.net/posts/)
+
 # いま取り組んでるもの
 
 - [ugoku-kawaii](https://github.com/uta8a/ugoku-kawaii)
