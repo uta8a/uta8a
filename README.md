@@ -5,10 +5,10 @@
 - [Blog](https://www.blog.uta8a.net/posts/)
 
 ## いま取り組んでるもの
-- CTF ScoreServer (private repo)
 - [stepdown-lowlayer](https://github.com/uta8a/stepdown-lowlayer)
 
 ## おやすみ中
+- CTF ScoreServer (private repo)
 - [ugoku-kawaii](https://github.com/uta8a/ugoku-kawaii)
 - [crypto-roadmap](https://github.com/uta8a/crypto-roadmap)
 
