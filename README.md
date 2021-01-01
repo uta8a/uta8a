@@ -8,6 +8,7 @@
 - [サマーウォーズ9周年おめでとう非公式サイト](https://github.com/uta8a/summer_wars_9th_anniversary)
 - [portfolio](https://github.com/uta8a/portfolio)
 
+<!--
 <div align="center">
 	<br>
 	<a href="https://github.com/uta8a/uta8a/master/header.svg">
@@ -15,3 +16,4 @@
 	</a>
 	<br>
 </div>
+-->
