@@ -1,4 +1,4 @@
-# Masanori Tani ( a.k.a. uta8a, kaito_tateyama )
+# Masanori Tani ( a.k.a. uta8a )
 
 ![LIFE-ZERO](https://img.shields.io/badge/LIFE-ZERO-blue)
 
