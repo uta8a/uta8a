@@ -1,3 +1,3 @@
 # Masanori Tani
 
-- [Blog](https://www.blog.uta8a.net)
+- [Blog](https://blog.uta8a.net/)
